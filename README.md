@@ -1,7 +1,8 @@
 # Resume-Parser-And-Mathcer
  This GitHub repository contains the complete source code and resources used to build a Resume Parser and Matcher Project using NLP.
 
-This is an NLP based Resume Parser and Matcher project. The project was built by me and @Anjalil-60 at J.C. Bose University of science and Technology, Faridabad.
+This is an NLP based Resume Parser and Matcher project. The project was built by me and [Anjalil-60](https://github.com/Anjali-60)
+ at J.C. Bose University of science and Technology, Faridabad.
 
 Techstack used: NLP, Spacy3, Custom NER, Token_to_vector, Cosine Similarity
 
